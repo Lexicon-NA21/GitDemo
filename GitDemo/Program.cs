@@ -12,7 +12,9 @@ namespace GitDemo
             Console.WriteLine("From My branch");
             Console.WriteLine("From My branch");
             Console.WriteLine("From My branch");
-            Console.WriteLine("From My branch");
+            Console.WriteLine("From My branch ny");
+            Console.WriteLine("From My branch ny");
+            Console.WriteLine("From My branch ny");
         }
     }
 }
