@@ -11,6 +11,7 @@ namespace GitDemo
         public NewFileDimitris()
         {
             Console.WriteLine("Hej David!");
+            Console.WriteLine("Hej själv!");
         }
     }
 }
