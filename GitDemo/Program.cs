@@ -10,7 +10,7 @@ namespace GitDemo
             Console.WriteLine("Ångra igen");
 
 
-            Console.WriteLine("Bananana!!!!!");
+            Console.WriteLine("Banan");
         }
     }
 }
