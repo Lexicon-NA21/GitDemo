@@ -8,6 +8,11 @@ namespace GitDemo
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("From My branch");
+            Console.WriteLine("From My branch");
+            Console.WriteLine("From My branch");
+            Console.WriteLine("From My branch");
+            Console.WriteLine("From My branch");
+            Console.WriteLine("From My branch");
         }
     }
 }
