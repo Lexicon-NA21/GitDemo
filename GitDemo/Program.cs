@@ -8,6 +8,9 @@ namespace GitDemo
         {
             Console.WriteLine("Ångra");
             Console.WriteLine("Ångra igen");
+
+
+            Console.WriteLine("Banan");
         }
     }
 }
