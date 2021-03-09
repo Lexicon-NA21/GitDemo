@@ -8,5 +8,9 @@ namespace GitDemo
 {
     class NewFileDimitris
     {
+        public NewFileDimitris()
+        {
+
+        }
     }
 }
