@@ -6,16 +6,8 @@ namespace GitDemo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World from David");
-            Console.WriteLine("Hello World from Dimitris");
-            Console.WriteLine("From My branch");
-            Console.WriteLine("From My branch");
-            Console.WriteLine("From My branch");
-            Console.WriteLine("From My branch");
-            Console.WriteLine("From My branch");
-            Console.WriteLine("From My branch ny");
-            Console.WriteLine("From My branch ny");
-            Console.WriteLine("From My branch ny");
+            Console.WriteLine("Ångra");
+            Console.WriteLine("Ångra igen");
         }
     }
 }
